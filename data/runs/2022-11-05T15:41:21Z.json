@@ -1,0 +1,2023 @@
+{
+  "environmentName" : "unknown",
+  "comment" : "",
+  "isFullRun" : false,
+  "scenarios" : [
+    {
+      "serverName" : "blaze 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "get-ok",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        22061.12,
+        21906.56,
+        22290.52
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "get-ok",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        125237.2,
+        126376.47,
+        125056.4
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "get-ok",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        153213.38,
+        154199.21,
+        158067.93
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "get-ok",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        161020.66,
+        165688.72,
+        169597.46
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-no-parse",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        12740.07,
+        12616.68,
+        12617.89
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-no-parse",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        74573.47,
+        73974.23,
+        74226.31
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-no-parse",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        86830.04,
+        88505.99,
+        89370.06
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-no-parse",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        100622.68,
+        98848.01,
+        98149.73
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-circe",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        1445.72,
+        1459.91,
+        1447.13
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-circe",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        23362.17,
+        23026.95,
+        23000.14
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-circe",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        52269.46,
+        52932.67,
+        52017.51
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-circe",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        55060.74,
+        54584.22,
+        54774.12
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-jsoniter",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        1500.17,
+        1500.54,
+        1500.8
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-jsoniter",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        24195.84,
+        24125.15,
+        24050.56
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-jsoniter",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        60789.26,
+        60548.09,
+        60969.56
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-jsoniter",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        66821.91,
+        65550.74,
+        67040.82
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "large-get",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        2160.86,
+        2117.51,
+        2317.56
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "large-get",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        4469.27,
+        5032.08,
+        4294.88
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "large-get",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        4281.27,
+        3790.56,
+        4167.67
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "large-get",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        3640.73,
+        3846.02,
+        3813.95
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "no-keepalive",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        11459.99,
+        11566.45,
+        11718.49
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "no-keepalive",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        27002.6,
+        26720.48,
+        26611.44
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "no-keepalive",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        31714.65,
+        31145.71,
+        29926.32
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "no-keepalive",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        32467.38,
+        33626.75,
+        30709.49
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "get-ok",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        27689.43,
+        27608.37,
+        27639.6
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "get-ok",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        144249.12,
+        144131.8,
+        141189.61
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "get-ok",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        177871.63,
+        179311.39,
+        181138.13
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "get-ok",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        194586.46,
+        198300.83,
+        202352.9
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-no-parse",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        20709.09,
+        20547.53,
+        20686.28
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-no-parse",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        111910.65,
+        112859.75,
+        111865.62
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-no-parse",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        140063.75,
+        143336.01,
+        141214.52
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-no-parse",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        152721.4,
+        148626.61,
+        152961.94
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-circe",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        1545.7,
+        1546.75,
+        1545.35
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-circe",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        24925.41,
+        24713.63,
+        24697.69
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-circe",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        72854.79,
+        72634.41,
+        72754.32
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-circe",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        77758.58,
+        77915.21,
+        78761.37
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-jsoniter",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        1592.5,
+        1592.9,
+        1592.38
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-jsoniter",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        25758.73,
+        25562.81,
+        25581.99
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-jsoniter",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        88497.32,
+        89410.27,
+        89985.25
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-jsoniter",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        92719.72,
+        92191.8,
+        94049.86
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "large-get",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        1784.23,
+        1987.27,
+        1942.1
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "large-get",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        3122.02,
+        3260.37,
+        3717.77
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "large-get",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        2884.63,
+        2835.11,
+        2880.93
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "large-get",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        2186.42,
+        2124.56,
+        2315.07
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "no-keepalive",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        12088.58,
+        12254.55,
+        12331.64
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "no-keepalive",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        25842.09,
+        27219.86,
+        26695.0
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "no-keepalive",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        35110.21,
+        33905.39,
+        33977.32
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "blaze 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "no-keepalive",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        34408.72,
+        35654.86,
+        37563.14
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "get-ok",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        20669.27,
+        20519.02,
+        20820.85
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "get-ok",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        75796.76,
+        76410.45,
+        78097.05
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "get-ok",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        69513.95,
+        66543.23,
+        65175.26
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "get-ok",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        68282.81,
+        67907.74,
+        64818.6
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-no-parse",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        16111.26,
+        16007.4,
+        16084.94
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-no-parse",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        69823.25,
+        70111.45,
+        70554.73
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-no-parse",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        61482.35,
+        61012.58,
+        61593.77
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-no-parse",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        60314.4,
+        58772.33,
+        59749.13
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-circe",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        1504.85,
+        1504.16,
+        1501.62
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-circe",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        24771.86,
+        24671.39,
+        24230.01
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-circe",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        55798.65,
+        55557.25,
+        55557.26
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-circe",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        45358.73,
+        45427.42,
+        44613.38
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-jsoniter",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        1550.12,
+        1552.44,
+        1551.21
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-jsoniter",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        25073.43,
+        25433.91,
+        25103.3
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-jsoniter",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        61468.38,
+        61827.98,
+        61871.77
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-jsoniter",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        49367.05,
+        49445.18,
+        48790.85
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "large-get",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        3412.96,
+        3451.26,
+        3492.55
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "large-get",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        4235.17,
+        4185.98,
+        4185.84
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "large-get",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        3435.15,
+        3800.78,
+        3878.53
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "large-get",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        2651.54,
+        2746.81,
+        2730.97
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "no-keepalive",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        8070.77,
+        8114.55,
+        8147.53
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "no-keepalive",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        10815.98,
+        10829.72,
+        10749.72
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "no-keepalive",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        10811.96,
+        10793.63,
+        10930.49
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "no-keepalive",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        10689.61,
+        10699.07,
+        10727.39
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "get-ok",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        15478.94,
+        15489.72,
+        15249.41
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "get-ok",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        70792.97,
+        70392.33,
+        70075.74
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "get-ok",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        65218.09,
+        61202.0,
+        61714.16
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "get-ok",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        62839.0,
+        63251.89,
+        60752.74
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-no-parse",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        11265.32,
+        11197.78,
+        11192.69
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-no-parse",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        58384.86,
+        58269.77,
+        57616.28
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-no-parse",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        55068.11,
+        54999.99,
+        55170.73
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-no-parse",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        52931.34,
+        54001.9,
+        52724.96
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-circe",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        1429.59,
+        1430.8,
+        1430.35
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-circe",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        23040.13,
+        22957.86,
+        22707.63
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-circe",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        45798.43,
+        45991.61,
+        45939.88
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-circe",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        40434.25,
+        40201.8,
+        40304.21
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-jsoniter",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        1467.69,
+        1467.22,
+        1455.48
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-jsoniter",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        23846.38,
+        23921.0,
+        23509.5
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-jsoniter",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        51374.84,
+        50055.65,
+        50345.34
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-jsoniter",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        41521.09,
+        41987.21,
+        42043.28
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "large-get",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        3332.25,
+        3397.21,
+        3360.21
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "large-get",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        4204.49,
+        4209.48,
+        4180.16
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "large-get",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        3369.53,
+        3727.61,
+        3757.42
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "large-get",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        2599.16,
+        2679.93,
+        2765.96
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "no-keepalive",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        7629.32,
+        7589.46,
+        7653.79
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "no-keepalive",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        10465.11,
+        10587.02,
+        10476.41
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "no-keepalive",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        10489.21,
+        10518.11,
+        10476.09
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "ember 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "no-keepalive",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        10541.74,
+        10392.87,
+        10468.01
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "get-ok",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        14755.33,
+        14901.14,
+        15122.9
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "get-ok",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        45795.48,
+        45666.59,
+        45999.02
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "get-ok",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        51776.17,
+        52855.21,
+        51795.31
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "get-ok",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        48125.5,
+        48943.44,
+        48810.81
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-no-parse",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        7126.84,
+        7013.49,
+        6908.01
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-no-parse",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        26371.7,
+        26705.19,
+        26489.94
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-no-parse",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        28859.75,
+        29871.43,
+        30146.37
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-no-parse",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        28371.07,
+        28362.39,
+        28567.59
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-circe",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        1299.31,
+        1301.5,
+        1296.43
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-circe",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        16294.18,
+        16252.25,
+        16423.16
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-circe",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        24429.04,
+        24703.2,
+        24507.72
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-circe",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        23589.75,
+        23774.28,
+        23715.88
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-jsoniter",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        1327.03,
+        1317.43,
+        1315.51
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-jsoniter",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        17027.08,
+        16706.21,
+        16969.73
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-jsoniter",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        26061.62,
+        26727.04,
+        26574.08
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-jsoniter",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        25314.78,
+        25066.83,
+        25052.69
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "large-get",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        3575.24,
+        4474.79,
+        4516.66
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "large-get",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        4787.39,
+        4772.15,
+        4768.22
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "large-get",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        3643.18,
+        3690.98,
+        3695.17
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "large-get",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        2180.51,
+        2268.64,
+        2491.81
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "no-keepalive",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        13859.52,
+        14102.54,
+        14086.63
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "no-keepalive",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        19961.2,
+        19627.87,
+        19775.17
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "no-keepalive",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        23079.74,
+        21960.63,
+        18702.88
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 0.23",
+      "serverVersion" : "",
+      "scenarioName" : "no-keepalive",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        5144.58,
+        1196.07,
+        4853.64
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "get-ok",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        45022.97,
+        44926.4,
+        44781.97
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "get-ok",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        181746.71,
+        183767.82,
+        183152.75
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "get-ok",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        229304.77,
+        229013.28,
+        232385.93
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "get-ok",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        149667.99,
+        149854.1,
+        152129.57
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-no-parse",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        10509.54,
+        10338.79,
+        10440.72
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-no-parse",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        55334.21,
+        54953.63,
+        55206.97
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-no-parse",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        66190.25,
+        65833.21,
+        64694.63
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-no-parse",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        55119.57,
+        53195.67,
+        53921.56
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-circe",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        1415.02,
+        1405.99,
+        1413.39
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-circe",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        22086.8,
+        21793.4,
+        22134.75
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-circe",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        44581.71,
+        46694.79,
+        46861.16
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-circe",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        39291.13,
+        40145.46,
+        39452.08
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-jsoniter",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        1454.17,
+        1448.37,
+        1454.07
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-jsoniter",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        23176.84,
+        23317.71,
+        23220.51
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-jsoniter",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        52110.82,
+        53092.68,
+        53171.28
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "json-exchange-realistic-jsoniter",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        44025.08,
+        44507.38,
+        44620.29
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "large-get",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        3039.35,
+        3327.62,
+        3930.43
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "large-get",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        3322.44,
+        3330.46,
+        3327.1
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "large-get",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        2996.4,
+        3047.56,
+        3061.4
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "large-get",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        2527.07,
+        2593.28,
+        2535.58
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "no-keepalive",
+      "concurrency" : {
+        "value" : 2
+      },
+      "results" : [
+        13898.38,
+        13970.72,
+        14068.18
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "no-keepalive",
+      "concurrency" : {
+        "value" : 32
+      },
+      "results" : [
+        58319.89,
+        58067.28,
+        58056.59
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "no-keepalive",
+      "concurrency" : {
+        "value" : 256
+      },
+      "results" : [
+        68265.06,
+        67991.71,
+        66614.49
+      ],
+      "errors" : 0
+    },
+    {
+      "serverName" : "netty 1.0",
+      "serverVersion" : "",
+      "scenarioName" : "no-keepalive",
+      "concurrency" : {
+        "value" : 2048
+      },
+      "results" : [
+        4725.02,
+        3831.47,
+        4079.34
+      ],
+      "errors" : 0
+    }
+  ]
+}
